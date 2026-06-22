@@ -1,8 +1,8 @@
-# Application Documentation: COLEv2
+# Application Documentation: COLEv2 Mobile Application
 
 
 # General Information
--App Name: COLEv2 (Caller Offline Lookup Extraction)
+-App Name: COLEv2 Apk (Caller Offline Lookup Extraction)
 
 -Version: v1.0.3
 
@@ -17,6 +17,11 @@
 -Languages: Native Kotlin (Jetpack Compose)
 
 -Architecture: Offline-First, JSON-based Persistence
+
+# User Acess
+
+username: dev
+password: dev@123
 
 
 # Summary
