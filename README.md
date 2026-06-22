@@ -3,14 +3,14 @@
 
 # General Information
 
--App Name: COLEv2 (Caller Offline Lookup Extraction)
--Version: v1.0.3
--Created: 6-22-26 - 10:55 AM
--Last Update: 6-22-26 - 1:50 PM
--Developer: MINU_DO
--Purpose: White Hat Tools for Call logs and Cyber Security
--Languages: Native Kotlin (Jetpack Compose)
--Architecture: Offline-First, JSON-based Persistence
+# -App Name: COLEv2 (Caller Offline Lookup Extraction)
+# -Version: v1.0.3
+# -Created: 6-22-26 - 10:55 AM
+# -Last Update: 6-22-26 - 1:50 PM
+# -Developer: MINU_DO
+# -Purpose: White Hat Tools for Call logs and Cyber Security
+# -Languages: Native Kotlin (Jetpack Compose)
+# -Architecture: Offline-First, JSON-based Persistence
 
 # Summary
 COLEv2 is a sophisticated, privacy-centric "White Hat" security application designed to provide users with complete control over their incoming call data without ever requiring an internet connection. By leveraging Android’s native CallScreeningService, COLEv2 acts as an invisible shield, intercepting unknown or malicious callers before the phone even rings. The app maps raw caller ID metadata against a local prefix database (db.json) to identify carriers and regions, ensuring that sensitive data never leaves the device.
