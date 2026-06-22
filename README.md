@@ -14,8 +14,9 @@
 
 -Purpose: White Hat Tools for Call logs and Cyber Security
 
--Languages: Native Kotlin (Jetpack Compose).
--Architecture: Offline-First, JSON-based Persistence.
+-Languages: Native Kotlin (Jetpack Compose)
+
+-Architecture: Offline-First, JSON-based Persistence
 
 
 # Summary
