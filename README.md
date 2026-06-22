@@ -2,21 +2,13 @@
 
 
 # General Information
-
 -App Name: COLEv2 (Caller Offline Lookup Extraction)
-
 -Version: v1.0.3
-
 -Created: 6-22-26 - 10:55 AM
-
 -Last Update: 6-22-26 - 1:50 PM
-
 -Developer: MINU_DO
-
 -Purpose: White Hat Tools for Call logs and Cyber Security
-
 -Languages: Native Kotlin (Jetpack Compose)
-
 -Architecture: Offline-First, JSON-based Persistence
 
 
