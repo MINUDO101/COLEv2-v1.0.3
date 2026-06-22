@@ -18,11 +18,6 @@
 
 -Architecture: Offline-First, JSON-based Persistence
 
-# User Acess
-
--- username: dev
-
--- password: dev@123
 
 
 # Summary
